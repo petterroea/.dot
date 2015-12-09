@@ -1,2 +1,4 @@
 # .dot
-Configuration files for my linux installations
+Hey!
+
+This is where i put configuration files i use in my linux installations. 
