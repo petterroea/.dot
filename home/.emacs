@@ -1,5 +1,5 @@
 ; list the packages you want
-(setq package-list '(farmhouse-theme php-mode markdown-mode jdee))
+(setq package-list '(farmhouse-theme php-mode markdown-mode jdee php-extras))
 
 ; list the repositories containing them
 (setq package-archives '(("elpa" . "https://melpa.org/packages/")
