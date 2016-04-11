@@ -1,0 +1,3 @@
+mount_options:
+- id_uuid: 131D-0280        # match by device UUID
+  options: [ro]  # mount options can be given as list

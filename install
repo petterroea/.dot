@@ -2,3 +2,7 @@
 
 # Install emacs stuff
 stow -t ~ home
+
+
+# Set up dex2jar
+wget http://downloads.sourceforge.net/project/dex2jar/dex2jar-2.0.zip

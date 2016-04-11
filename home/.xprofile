@@ -2,3 +2,10 @@ xrandr --output HDMI-0 --left-of DP-1
 xrandr --output DVI-I-1 --right-of DP-1
 xrandr --output DP-1 --pos 1920x-360
 xrandr --output DP-1 --primary
+udiskie --no-automount --tray --use-udisks2 &
+
+~/.xflux/xflux  -l 59.844 -g 10.467
+# xsetwacom set 8 MapToOutput "2560x1440+1920+0"
+# xsetwacom --set 8 Area 6400 1440 17076 7445
+
+~/random_wallpaper
