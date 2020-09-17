@@ -1,0 +1,13 @@
+xf86-input-wacom
+cifs-utils
+chromium
+polkit-gnone
+feh
+ntp
+telegram-desktop
+discord
+zsh
+pandoc
+pcsx2
+blender
+eog

@@ -1,0 +1,6 @@
+fcitx
+fcitx-configtool
+fcitx-gtk2
+fcitx-gtk3
+fcitx-mozc
+fcitx-qt5

@@ -1,0 +1,16 @@
+network-manager-applet
+networkmanager-openconnect
+networkmanager-openvpn
+pulseaudio
+pulseaudio-alsa
+pulseaudio-bluetooth
+pavucontrol
+thunar
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-shares-plugin
+thunar-volman
+thumbler
+adwaita-icon-theme
+gtk-update-icon-cache
+hicolor-icon-theme

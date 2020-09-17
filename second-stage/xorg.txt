@@ -1,0 +1,11 @@
+xorg
+nvidia
+nvidia-utils
+lib32-nvidia-utils
+lightdm
+lightdm-gtk-greeter
+xfce4
+xfce4-goodies
+xorg-xrandr
+i3-gaps
+rofi

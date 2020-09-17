@@ -1,0 +1,10 @@
+mingw-w64-binutils
+mingw-w64-gcc
+docker
+docker-compose
+virtualbox
+virtualbox-host-modules-arch
+python
+python-pip
+texlive-most
+texlive-lang
