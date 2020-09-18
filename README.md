@@ -5,7 +5,9 @@ This is where i put configuration files i use in my linux installations.
 
 Installing: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/petterroea/.dot/master/bootstrap.sh)"`
 
-## Packages
+## Parts
+
+Running the above command should auto-detect which stage you are at, and only install the neccesary components
 
 ### first-stage
 

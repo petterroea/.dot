@@ -38,7 +38,7 @@ echo "Installing from YAY"
 echo "============================================="
 
 
-yay -S optimus-manager polybar i3lock-fancy-git slack-desktop spotify
+yay -S optimus-manager polybar i3lock-fancy-git slack-desktop spotify insomnia
 
 echo "============================================="
 echo "Installing oh my zsh"
